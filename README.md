@@ -1,7 +1,9 @@
-### Hi there, my name is Alex aka [cyberalexander] 👋
+### Hi there, my name is Alex - aka [cyberalexander] 👋
 
 <p>Welcome to my GitHub profile!</p>
 <p>Currently I'm working on upgrade of my projects to a modern technologies, improving code quality and architectural changes.</p>
+
+
 <!--
 **cyberalexander/cyberalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
