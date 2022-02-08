@@ -1,7 +1,7 @@
 ### Hi there, my name is Alex - aka [cyberalexander] 👋
 
 <p>Welcome to my GitHub profile!</p>
-<p>Currently I'm working on upgrade of my projects to a modern technologies, improving code quality and architectural changes.</p>
+<p>🔭 I'm currently working on upgrade of my projects to a modern technologies stack, improving code quality and entire architecture.</p>
 
 ### Languages and Tools:
 
