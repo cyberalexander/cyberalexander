@@ -1,3 +1,5 @@
+<img src="https://visitor-badge.laobi.icu/badge?page_id=cyberalexander.cyberalexander" alt="visitor badge"/> 
+
 ### Hi there, my name is Alex - aka [cyberalexander] 👋
 
 <p>Welcome to my GitHub profile!</p>
