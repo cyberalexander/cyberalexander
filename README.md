@@ -1,5 +1,3 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=cyberalexander.cyberalexander" alt="visitor badge"/> 
-
 ### Hi there, my name is Alex - aka [cyberalexander] 👋
 
 <p>Welcome to my GitHub profile!</p>
@@ -28,6 +26,10 @@
 [![cyberalexander's github stats](https://github-readme-stats.vercel.app/api?username=cyberalexander)](https://github.com/cyberalexander/github-readme-stats)
 
 <br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=cyberalexander.cyberalexander" alt="visitor badge"/> 
+
+
+
 <!--
 **cyberalexander/cyberalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
