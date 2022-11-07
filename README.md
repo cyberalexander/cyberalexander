@@ -1,4 +1,4 @@
-### Hi there, my name is Alex - aka [cyberalexander] 👋
+### Hi there, my name is Alexander - aka [cyberalexander] 👋
 
 <p>Welcome to my GitHub profile!</p>
 <p>🔭 I'm currently working on upgrade of my projects to a modern technologies stack, improving code quality and entire architecture.</p>
