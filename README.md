@@ -2,7 +2,7 @@
 
 <p>Welcome to my GitHub profile!</p>
 <p>🔭 I'm currently working on upgrade of my projects to a modern technologies stack, improving code quality and entire architecture.</p>
-<p>Check out my website to find more information about me <a href="https://cyberalexander.github.io/">cyberalexander.github.io</a></p>
+<p>⚡ Check out my website to find more information about me <a href="https://cyberalexander.github.io/" target="_blank">cyberalexander.github.io</a>.</p>
 
 ### Languages and Tools:
 
