@@ -3,6 +3,7 @@
 <p>Welcome to my GitHub profile!</p>
 <p>🔭 I'm currently working on upgrade of my projects to a modern technologies stack, improving code quality and entire architecture.</p>
 <p>⚡ Check out my website to find more information about me <a href="https://cyberalexander.github.io/" target="_blank">cyberalexander.github.io</a>.</p>
+<p>The meaining of <b>CyberAlexander</b> nickname: <b>Cyber</b> is a prefix, which means involving, using, or relating to computers, especially the internet; <b>Alexander</b> simply my firstname.</p>
 
 ### Languages and Tools:
 
